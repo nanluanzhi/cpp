@@ -12,7 +12,7 @@ void func(int a,int =10)
 {
 	cout<<"this is func"<<endl;
 }
-int main()
+int main0302()
 {
 	func(10);
 	system("pause");

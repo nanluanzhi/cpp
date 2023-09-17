@@ -39,5 +39,11 @@
     <ClCompile Include="3.3函数重载.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4.1.1设计一个圆类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.2设计一个学生类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

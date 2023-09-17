@@ -135,6 +135,8 @@
     <ClCompile Include="3.1函数默认参数.cpp" />
     <ClCompile Include="3.2函数占位参数.cpp" />
     <ClCompile Include="3.3函数重载.cpp" />
+    <ClCompile Include="4.1.1设计一个圆类.cpp" />
+    <ClCompile Include="4.1.2设计一个学生类.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
