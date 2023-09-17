@@ -3,7 +3,7 @@
 #include <ctime>
 #include <cmath>
 using namespace std;
-int main0201()
+int main020()
 {
 	//引用基本语法
 	//数据类型 &别名=原名
